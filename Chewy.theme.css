@@ -1,0 +1,47 @@
+/*META*/
+//META{"name":"Chewy","description":"Trying something new","author":"Chewboko","version":"1.0"}*//
+
+/*Imports*/
+@import url("");
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+
+/*Root Variables*/
+:root {
+  /*Neutron 8*/
+  --themeColor1        : #36D1DC;
+  --themeColor2        : #5B86E5;
+  --customFont         : 'Open sans',sans-serif;
+  --homeImage          : url('https://i.imgur.com/gF81nhO.png');
+  --homeImageSize      : cover;
+  --backgroundColor    : #0d0d0d;
+  --backgroundImage    : url('https://i.imgur.com/eOFnG9t.png');
+  --backgroundPosition : center;
+  --backgroundSize     : cover;
+  --backgroundRepeat   : no-repeat;
+  --backgroundBlur     : 100px;
+  --backgroundOpacity  : .65;
+  --backgroundCode     : rgba(0,0,0,.35);
+  /*Nocturnal*/
+  --backgroundDark     : rgb(24, 28, 37);
+  --backgroundDarker   : rgb(20, 23, 31);
+  --primary            : #008ae6;
+  --primaryGradient1   : var(--primary);
+  --primaryGradient2   : #00e68a;
+  --DangerColor        : #dc3545;
+  --WarningColor       : #ffc107;
+  --SuccesColor        : #28a745;
+  --backgroundName     : rgba(0,0,0,.2);
+  /* Radial Status */
+  --rs-small-spacing   : 2px;
+  --rs-large-spacing   : 3px;
+  --rs-width           : 2px;
+  --rs-avatar-shape    : 50%;
+  --rs-online-color    : #43b581;
+  --rs-idle-color      : #faa61a;
+  --rs-dnd-color       : #f04747;
+  --rs-offline-color   : #636b75;
+  --rs-streaming-color : #643da7;
+  --rs-invisible-color : #747f8d;
+}
