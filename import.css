@@ -209,6 +209,9 @@
   border-top: 1px solid var(--brighterT);
   border-bottom: none;
 }
+.container-3baos1 {
+  border-top: 2px solid var(--brighterT);
+}
 
 /*Chat Area*/
 .group-spacing-4 .divider-3_HH5L.hasContent-1_DUdQ {
