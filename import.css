@@ -271,7 +271,7 @@
   background: linear-gradient(to top left, rgba(var(--tC1),1), rgba(var(--tC2),1));
 }
 .channelHeader-3Gd2xq {
-  background-color: var(--light);
+  background-color: var(--bright);
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
   border-bottom: 1px solid var(--brightT);
@@ -287,11 +287,11 @@
 }
 .wrapper-3WhCwL {
   color: rgba(var(--tC2),1);
-  background: var(--light);
+  background: var(--bright);
 }
 .interactive:hover {
   color: #fff;
-  background: var(--light);
+  background: var(--bright);
 }
 .mentioned-xhSam7:before {
   background-image: linear-gradient(to bottom right,rgba(var(--tC1),1), rgba(var(--tC2),1));
