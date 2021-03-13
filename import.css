@@ -556,3 +556,14 @@
 .wordmarkWindows-1v0lYD {
   color: rgba(var(--tC1),1);
 }
+.bd-modal-wrapper .header {
+  background-color: var(--darker);
+  border-bottom: 1px solid var(--brighterT);
+}
+.bd-modal-wrapper .bd-modal-body {
+  background-color: var(--dark);
+  border-bottom: 1px solid var(--brighterT);
+}
+.bd-modal-wrapper .footer {
+  border: none;
+}
