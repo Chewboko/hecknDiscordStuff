@@ -333,7 +333,10 @@
 .theme-dark .footer-3mqk7D {
   background-color: var(--darker);
 }
-
+.markup-2BOw-j code, .markup-2BOw-j code.inline {
+  background-color: var(--brightT);
+  border: 2px solid var(--brighterT);
+}
 
 /*Userlist Area*/
 .members-1998pB, .members-1998pB>div {
