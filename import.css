@@ -105,6 +105,9 @@
   background-image: linear-gradient(to bottom right, rgba(var(--tC1),1), rgba(var(--tC2),1));
   background-color: transparent;
 }
+.tree-3tCaw8 {
+    outline: none;
+}
 
 /*Add Server*/
 .container-UC8Ug1, .colorStandard-2KCXvj, .colorHeaderPrimary-26Jzh-, .colorHeaderSecondary-3Sp3Ft, .sampleLink-2NLvZg, .theme-light .lookLink-9FtZy-.colorPrimary-3b3xI6 {
