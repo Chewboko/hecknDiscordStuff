@@ -212,6 +212,15 @@
 .panels-j1Uci_ {
   border-top: 2px solid var(--brighterT);
 }
+.quickswitcher-3JagVE {
+  background-color: var(--dark);
+}
+.input-2VB9rf {
+  background-color: var(--darker);
+}
+.scroller-zPkAnE {
+  background-color: transparent;
+}
 
 /*Chat Area*/
 .group-spacing-4 .divider-3_HH5L.hasContent-1_DUdQ {
