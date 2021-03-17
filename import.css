@@ -354,7 +354,9 @@
   background-color: var(--brightT);
   border: 2px solid var(--brighterT);
 }
-
+.container-2fRDfG {
+  background: var(--dark);
+}
 
 
 /*Userlist Area*/
