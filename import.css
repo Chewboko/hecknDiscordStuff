@@ -98,6 +98,21 @@
 .actionButton-uPB8Fs.highlight-Lf97TE {
   background-color: var(--darkerT);
 }
+.theme-dark .perksModal-fSYqOq {
+  background-color: transparent;
+}
+.ctaBar-2UsjF2 {
+  background-color: var(--darkerT);
+}
+.theme-dark .tierHeaderLocked-1s2JJz {
+  background-color: var(--darkerT);
+}
+.theme-dark .tierBody-16Chc9 {
+  background-color: var(--darkT);
+}
+.theme-dark .perk-2WeBWW {
+  background-color: var(--darkerT);
+}
 
 /*Server Area*/
 .item-2hkk8m {
