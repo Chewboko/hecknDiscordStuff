@@ -378,6 +378,11 @@
   color: #fff !important;
   border-radius: 4px;
 }
+.theme-dark .mentioned-xhSam7 .mention.interactive:hover, .theme-light .mentioned-xhSam7 .mention.interactive:hover {
+  background-color: rgba(var(--tC2),0.4) !important;
+  color: #fff !important;
+  border-radius: 4px;
+}
 .username-1A8OIy {
   font-weight: bold;
   font-size: 1rem;
@@ -424,7 +429,6 @@
 .container-2fRDfG {
   background: var(--dark);
 }
-
 
 /*Userlist Area*/
 .members-1998pB, .members-1998pB>div {
@@ -506,8 +510,17 @@
   background-color: var(--darker);
 }
 .inspector-S2gM3e {
-    background-color: var(--darker);
- }
+  background-color: var(--darker);
+}
+.emojiPicker-3PwZFl {
+ background-color: var(--darker);
+}
+.input-1Rv96N {
+ background: var(--darkT);
+}
+.medium-2-DE5M.iconLayout-1WxHy4 {
+ padding-left: 7px;
+}
 
 /*Server Settings*/
 .container-1D34oG, .header-2Y0-A-, .upsellFooter-ZYsio_, .checklistHeader-1KWcEY  {
