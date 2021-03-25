@@ -153,6 +153,15 @@
 .tree-2wKJdG {
   outline: none;
 }
+.folder-1hbNCn {
+  background-color: var(--darker);
+}
+.folder-1hbNCn:hover {
+  background-color: var(--dark);
+}
+.expandedFolderBackground-1cujaW {
+  background-color: var(--darkT);
+}
 
 /*Add Server*/
 .container-UC8Ug1, .colorStandard-2KCXvj, .colorHeaderPrimary-26Jzh-, .colorHeaderSecondary-3Sp3Ft, .sampleLink-2NLvZg, .theme-light .lookLink-9FtZy-.colorPrimary-3b3xI6 {
@@ -398,9 +407,18 @@
 .theme-dark .footer-3mqk7D {
   background-color: var(--darker);
 }
-.markup-2BOw-j code, .markup-2BOw-j code.inline {
-  background-color: var(--brightT);
-  border: 2px solid var(--brighterT);
+.markup-2BOw-j code.hljs, .markup-2BOw-j code.hljs.inline {
+  border:1px solid var(--whiteT);
+  border-radius: 8px;
+}
+.markup-2BOw-j code.hljs, .markup-2BOw-j code.hljs.inline {
+  background: var(--darkerT);
+}
+.hljs::before {
+  background-color: var(--darkerT);
+}
+.markup-2BOw-j pre {
+  border: none;
 }
 .container-2fRDfG {
   background: var(--dark);
