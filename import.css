@@ -146,7 +146,7 @@
   border-style: outset;
 }
 .theme-dark .footer-2gL1pp {
-  background-color: rgba(21,21,21,1);
+  background-color: var(--darkerT);
   border-top: 1px solid;
   border-color: rgba(var(--tC2),1);
   border-style: outset;
