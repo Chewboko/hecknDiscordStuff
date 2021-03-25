@@ -358,10 +358,6 @@
   color: #fff;
   background: var(--bright);
 }
-.interactive:hover {
-  color: #fff;
-  background: var(--bright);
-}
 .mentioned-xhSam7:before {
   background-image: linear-gradient(to bottom right,rgba(var(--tC1),1), rgba(var(--tC2),1));
   width: 4px;
@@ -372,7 +368,12 @@
 .mouse-mode.full-motion .mentioned-xhSam7:hover, .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z {
   background-color: rgb(var(--tC2),0.2);
 }
-.theme-dark .mentioned-xhSam7 .mention, .theme-light .mentioned-xhSam7 .mention, .wrapper-3WhCwL {
+.theme-dark.mentioned-xhSam7.mention, .theme-light.mentioned-xhSam7.mention, .wrapper-3WhCwL {
+  background-color: rgba(var(--tC2),0.3) !important;
+  color: #fff !important;
+  border-radius: 4px;
+}
+.interactive:hover {
   background-color: rgba(var(--tC2),1) !important;
   color: #fff !important;
   border-radius: 4px;
