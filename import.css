@@ -130,6 +130,26 @@
     outline: none;
 }
 
+.homeIcon-FuNwkv {
+  display: block;
+  width: 0px;
+  height: 0px;
+}
+.scroller-1Bvpku {
+  background-color: transparent;
+}
+.circleIconButton-1QV--U {
+  background-color: transparent;
+  color: rgba(var(--tC1),1);
+}
+.circleIconButton-1QV--U.selected-1JjBPm {
+  background-image: linear-gradient(to bottom right, rgba(var(--tC1),1), rgba(var(--tC2),1));
+  background-color: transparent;
+}
+.tree-2wKJdG {
+  outline: none;
+}
+
 /*Add Server*/
 .container-UC8Ug1, .colorStandard-2KCXvj, .colorHeaderPrimary-26Jzh-, .colorHeaderSecondary-3Sp3Ft, .sampleLink-2NLvZg, .theme-light .lookLink-9FtZy-.colorPrimary-3b3xI6 {
   background-color: transparent;
