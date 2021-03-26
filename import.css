@@ -170,6 +170,7 @@
 }
 .container-UC8Ug1 {
   border: 1px solid #323232;
+  background-color: var(--darkT);
 }
 .close-hZ94c6 {
   color: #fff;
@@ -187,7 +188,7 @@
   color: #fff;
 }
 .theme-dark .root-1gCeng {
-  background-color: rgba(21,21,21,1);
+  background-color: var(--dark);
   border: 1px solid;
   border-radius: 8px;
   border-color: rgba(var(--tC2),1);
