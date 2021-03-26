@@ -282,6 +282,15 @@
 .scroller-zPkAnE {
   background-color: transparent;
 }
+.lookFilled-22uAsw.select-2fjwPw {
+  background-color: var(--darkT);
+}
+.option-3KoAJB[aria-selected=true] {
+  background-color: var(--darkerT);
+}
+.option-3KoAJB {
+  background-color: var(--dark);
+}
 
 /*Chat Area*/
 .group-spacing-4 .divider-3_HH5L.hasContent-1_DUdQ {
