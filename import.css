@@ -678,3 +678,9 @@
 .bd-modal-wrapper .footer {
   border: none;
 }
+/*Sort*/
+.messageGroupWrapper-o-Zw7G {
+  background: var(--darker);
+  border-radius: 8px;
+  border: 1px solid var(--bright)
+}
