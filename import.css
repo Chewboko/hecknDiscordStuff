@@ -680,7 +680,7 @@
 }
 /*Sort*/
 .messageGroupWrapper-o-Zw7G {
-  background: var(--darker);
+  background: var(--bright);
   border-radius: 8px;
-  border: 1px solid var(--bright)
+  border: none;
 }
