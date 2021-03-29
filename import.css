@@ -459,9 +459,9 @@
   border-image: linear-gradient(to left,rgba(var(--tC1),1),rgba(var(--tC2),1),transparent,transparent,rgba(var(--tC2),1),rgba(var(--tC1),1)) 1;
 }
 .input-cIJ7To:focus {
-  border-color: rgba(var(--tC2),1);
+  border: 1px solid;
   /*border-style: outset;*/
-  border-width: 1px;
+  border-color: rgba(var(--tC2),1);
 }
 .member-3-YXUe {
   margin-left: 4px;
@@ -553,7 +553,7 @@
 }
 .container-3XJ8ns {
   background-color: var(--background-floating);
-  border-width: 1px;
+  border: 1px solid;
   /*border-style: outset;*/
   border-color: rgba(var(--tC2),1);
 }
@@ -635,7 +635,7 @@
   border-top: 1px solid var(--brightT);
 }
 .root-SR8cQa, .userPopout-3XzG_A {
-  border-width: 1px;
+  border: 1px solid;
   /*border-style: outset;*/
   border-color: rgba(var(--tC2),1);
 }
