@@ -215,6 +215,7 @@
   background-color: var(--darkerT);
   border-radius: 8px;
 }
+
 /*Discover*/
 .categoryItem-3zFJns.selectedCategoryItem-3X8ujp .itemInner-3gVXMG {
   background: linear-gradient(to bottom right, rgba(var(--tC1),1), rgba(var(--tC2),1));
@@ -235,6 +236,21 @@
   padding-bottom: 1px;
   padding-left: 1px;
   padding-right: 9px;
+}
+
+/*server preview*/
+.guildSidebar-2OCzWB {
+  background-color: var(--darker);
+}
+.modal-f02hVt{
+  background-color: var(--dark);
+}
+.formFieldWrapper-malor5{
+  background-color: var(--darkerT);
+}
+.theme-dark .footer-2gL1pp {
+  background-color: var(--darker);
+  color: #fff;
 }
 
 /*Channels Area*/
@@ -470,7 +486,7 @@
 /*Transparent Message and Search Box*/
 .scrollableContainer-2NUZem {
   background-color: rgba(0,0,0,0.4);
-  border: 1px solid rgba(var(--tC1),1);
+  border: 1px solid rgba(var(--tC1),0.5);
   border-radius: 8px;
 }
 .channelTextArea-rNsIhG {
