@@ -6,11 +6,12 @@
  * @invite tvm8sUx
  * @source https://chewboko.github.io/hecknDiscordStuff/import.css
  */
+
 @import url("https://fonts.googleapis.com/css2?family=Raleway");
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
 @import url("https://codedotspectra.github.io/themes/core/badges.css");
 @import url("https://codedotspectra.github.io/themes/core/hljs.css");
-@import "https://xcruxiex.github.io/BBDThemes/MiniThemes/StatusRight.theme.css";
+@import url("https://xcruxiex.github.io/BBDThemes/MiniThemes/StatusRight.theme.css");
 
 :root {
   --userFont: 'Raleway', sans-serif;
